@@ -5,7 +5,7 @@ const Page = () => {
   return (
     <div>
       <div className="text-4xl">Hello</div>
-      <Button>Hi</Button>
+      <Button>HELLO</Button>
     </div>
   );
 };
